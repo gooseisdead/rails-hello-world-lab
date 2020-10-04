@@ -1,4 +1,5 @@
 require_relative 'boot'
+# require_relative '/Users/gooseisdead/Flatiron/code/rails-hello-world-lab/app/controllers/hw_controller.rb'
 
 require 'rails/all'
 
